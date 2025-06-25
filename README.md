@@ -150,7 +150,5 @@ OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/a8a4e7e3-7602-4a04-b1db-2ae09c82baec)
 
-![Image](https://github.com/user-attachments/assets/cef6e9d2-2500-475b-9272-effb60ac48bc)
-
 ![Image](https://github.com/user-attachments/assets/c462de52-bdef-4986-896b-695d9358563f)
 
