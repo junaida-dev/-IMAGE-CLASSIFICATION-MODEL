@@ -138,3 +138,19 @@ E-commerce product image tagging
  
 This internship task provided hands-on experience with deep learning concepts, particularly in building CNNs for image classification. It enhanced my understanding of convolutional operations, pooling, flattening, activation functions, model optimization, and evaluation techniques. By working on this task, I learned how to apply CNN architectures to solve real-world image classification problems efficiently.
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/4d470b84-515f-43eb-bf6a-d4fd8dd1b396)
+
+![Image](https://github.com/user-attachments/assets/11dc322a-6bcd-4a76-a22b-02ba6ef76332)
+
+![Image](https://github.com/user-attachments/assets/e5a155fd-06c1-4515-8d47-af704dddc89b)
+
+![Image](https://github.com/user-attachments/assets/9815cb4e-7dcf-4bdc-b64b-36825ca4055e)
+
+![Image](https://github.com/user-attachments/assets/a8a4e7e3-7602-4a04-b1db-2ae09c82baec)
+
+![Image](https://github.com/user-attachments/assets/cef6e9d2-2500-475b-9272-effb60ac48bc)
+
+![Image](https://github.com/user-attachments/assets/c462de52-bdef-4986-896b-695d9358563f)
+
